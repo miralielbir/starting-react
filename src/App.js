@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import burger from "./burger.json"
 
 function App() {
   return (
@@ -17,10 +18,12 @@ function App() {
           </tr>
         </thead>
         <tbody>
-          <tr>
-            <td>BuRger Maniac</td>
-            <td>150£ Full Onion</td>
+                  {burger.map(burger =>(
+                    <tr key ={[burger.name, burger.patty_type].join(":")}>
+            <td>{burger.name}</td>
+            <td>{burger.description}</td>
           </tr>
+        ))}
         </tbody>
       </table>
     </div>

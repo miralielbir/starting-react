@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Classic Cheeseburger",
+    "patty_type": "beef",
+    "toppings": ["cheddar cheese", "lettuce", "tomato", "onion", "ketchup", "mustard"],
+    "description": "The standard beef burger with melted cheese and the usual fresh toppings."
+  },
+  {
+    "name": "Bacon Burger",
+    "patty_type": "beef",
+    "toppings": ["bacon", "cheddar cheese", "lettuce", "onion", "mayo"],
+    "description": "Classic burger enhanced with crispy bacon for extra smoky flavor."
+  },
+  {
+    "name": "Mushroom Swiss Burger",
+    "patty_type": "beef",
+    "toppings": ["Swiss cheese", "sautéed mushrooms", "onion", "lettuce"],
+    "description": "Rich and creamy, with mushrooms and Swiss cheese bringing depth."
+  },
+  {
+    "name": "BBQ Burger",
+    "patty_type": "beef",
+    "toppings": ["barbecue sauce", "onion rings", "cheddar cheese", "lettuce"],
+    "description": "Sweet and smoky BBQ sauce with crunchy onion rings."
+  },
+  {
+    "name": "Veggie Burger",
+    "patty_type": "vegetable / legume",
+    "toppings": ["lettuce", "tomato", "avocado", "vegan mayo"],
+    "description": "Meatless burger using beans, lentils or vegetables for the patty."
+  },
+  {
+    "name": "Chicken Burger",
+    "patty_type": "chicken",
+    "toppings": ["lettuce", "tomato", "mayonnaise", "pickles"],
+    "description": "Grilled or fried chicken breast in burger form — lighter than beef."
+  },
+  {
+    "name": "Turkey Burger",
+    "patty_type": "turkey",
+    "toppings": ["avocado", "lettuce", "onion", "cranberry sauce"],
+    "description": "Turkey meat gives a leaner option; often paired with lighter or fruity toppings."
+  },
+  {
+    "name": "Lamb Burger",
+    "patty_type": "lamb",
+    "toppings": ["feta cheese", "mint sauce", "tomato", "red onion"],
+    "description": "Lamb adds a richer, more aromatic flavor — often using Mediterranean-style toppings."
+  },
+  {
+    "name": "Fish Burger",
+    "patty_type": "fish",
+    "toppings": ["tartar sauce", "lettuce", "pickles", "lemon"],
+    "description": "A fish fillet or fish patty — light and often served with tartar or citrus."
+  },
+  {
+    "name": "Juicy Lucy",
+    "patty_type": "beef",
+    "toppings": ["cheese inside patty", "lettuce", "tomato"],
+    "description": "Cheese is stuffed inside the beef patty, creating a molten core when you bite in."
+  },
+  {
+    "name": "Butter Burger",
+    "patty_type": "beef",
+    "toppings": ["butter", "onions", "cheddar cheese"],
+    "description": "Topped or cooked with butter — very rich, usually associated with Wisconsin style."
+  },
+  {
+    "name": "Angus Burger",
+    "patty_type": "beef (Angus)",
+    "toppings": ["premium cheese", "lettuce", "tomato", "special sauce"],
+    "description": "Made with Angus beef — often a premium option on menus. "
+  },
+  {
+    "name": "Onion Burger",
+    "patty_type": "beef",
+    "toppings": ["grilled onions smashed into patty", "mustard", "lettuce"],
+    "description": "Onions are pressed into the patty while cooking, giving a sweet‐onion flavor throughout."
+  },
+  {
+    "name": "Green Chile Cheeseburger",
+    "patty_type": "beef",
+    "toppings": ["roasted green chile", "cheese", "onion"],
+    "description": "Roasted chiles give a spicy kick, commonly seen in New Mexico style. "
+  },
+  {
+    "name": "Steamed Cheeseburger",
+    "patty_type": "beef",
+    "toppings": ["cheese", "steamed bun"],
+    "description": "Instead of grilling, burger and cheese are steamed for a moist, tender result. "
+  },
+  {
+    "name": "Rice Burger",
+    "patty_type": "beef or alternative",
+    "toppings": ["rice buns", "lettuce", "sauce"],
+    "description": "Uses compressed rice patties instead of traditional bread buns. Popular in East Asia. "
+  },
+  {
+    "name": "Chori Burger",
+    "patty_type": "pork / chorizo",
+    "toppings": ["banana ketchup", "mayonnaise", "atcara (pickled green papaya)", "lettuce", "tomato"],
+    "description": "Filipino style burger using chorizo‐flavored patty and local condiments. "
+  },
+  {
+    "name": "Smash Burger",
+    "patty_type": "beef",
+    "toppings": ["cheese", "onion"],
+    "description": "Patty is smashed down on a hot griddle, producing crispy edges. "
+  },
+  {
+    "name": "Islak Burger",
+    "patty_type": "beef",
+    "toppings": ["wet tomato sauce", "bun soaked", "thin beef patty"],
+    "description": "Turkish street burger, bun and patty soaked in tomato sauce. "
+  },
+  {
+    "name": "Ramly Burger",
+    "patty_type": "beef or chicken",
+    "toppings": ["omelet wrap", "mayonnaise", "cabbage", "chili sauce", "sauce mix"],
+    "description": "Malaysian street favorite; patty wrapped in egg, with slaw and sauces. "
+  },
+  {
+    "name": "Reindeer Burger",
+    "patty_type": "reindeer",
+    "toppings": ["lingonberry jam", "cheese", "lettuce"],
+    "description": "Arctic‐region meat with sweet berry accompaniment. "
+  },
+  {
+    "name": "Hamburguesas Mexicanas",
+    "patty_type": "beef",
+    "toppings": ["guacamole", "jalapeño", "pico de gallo", "cheese"],
+    "description": "Mexican‐style burger with local flavors and spicy toppings. "
+  },
+  {
+    "name": "Bun Kebab",
+    "patty_type": "meat / legume mix",
+    "toppings": ["egg", "onion", "lettuce", "tomato", "chutney"],
+    "description": "Pakistani street food; bread roll filled with spiced patty, egg, chutney etc."
+  },
+  {
+    "name": "Vada Pav Burger",
+    "patty_type": "vegetable / spiced potato",
+    "toppings": ["green chutney", "fried chilies", "onion"],
+    "description": "Indian snack‐turned burger: spiced potato dumpling (vada) inside bun (pav), often with chutneys. "
+  },
+  {
+    "name": "Donkey Burger",
+    "patty_type": "donkey meat",
+    "toppings": ["shredded meat", "flatbread", "sauce"],
+    "description": "Chinese speciality: shredded donkey meat served on flat bread. "
+  },
+  {
+    "name": "Pastrami Burger",
+    "patty_type": "beef + pastrami",
+    "toppings": ["pastrami slices", "cheese", "onion", "sauce"],
+    "description": "Beef burger topped with pastrami for extra cured meat flavor. "
+  },
+  {
+    "name": "Patty Melt",
+    "patty_type": "beef",
+    "toppings": ["grilled onions", "Swiss or cheddar cheese", "served on rye or grilled bread"],
+    "description": "Cross between burger and grilled cheese / sandwich; served on grilled bread instead of bun. "
+  },
+  {
+    "name": "Fat Boy Burger",
+    "patty_type": "beef",
+    "toppings": ["chili sauce", "pickles", "tomato", "lettuce", "mayonnaise", "mustard"],
+    "description": "Loaded burger with chili sauce and pickles; hearty and full of toppings. "
+  }
+]
